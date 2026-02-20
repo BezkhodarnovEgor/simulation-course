@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egorb\\OneDrive\\Desktop\\lab1\\lab1\\lab1.csproj": {}
+    "C:\\Users\\egorb\\OneDrive\\Desktop\\MSlabs\\simulation-course\\lab01\\lab1\\lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egorb\\OneDrive\\Desktop\\lab1\\lab1\\lab1.csproj": {
+    "C:\\Users\\egorb\\OneDrive\\Desktop\\MSlabs\\simulation-course\\lab01\\lab1\\lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egorb\\OneDrive\\Desktop\\lab1\\lab1\\lab1.csproj",
+        "projectUniqueName": "C:\\Users\\egorb\\OneDrive\\Desktop\\MSlabs\\simulation-course\\lab01\\lab1\\lab1.csproj",
         "projectName": "lab1",
-        "projectPath": "C:\\Users\\egorb\\OneDrive\\Desktop\\lab1\\lab1\\lab1.csproj",
+        "projectPath": "C:\\Users\\egorb\\OneDrive\\Desktop\\MSlabs\\simulation-course\\lab01\\lab1\\lab1.csproj",
         "packagesPath": "C:\\Users\\egorb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egorb\\OneDrive\\Desktop\\lab1\\lab1\\obj\\",
+        "outputPath": "C:\\Users\\egorb\\OneDrive\\Desktop\\MSlabs\\simulation-course\\lab01\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\egorb\\AppData\\Roaming\\NuGet\\NuGet.Config",
