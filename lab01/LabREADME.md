@@ -1,6 +1,5 @@
 ### Моделирование полёта тела в атмосфере
 
-**Задание:**  
 <img width="1215" height="793" alt="image" src="https://github.com/user-attachments/assets/0969938f-4d85-44d4-a8fb-ba969adccb24" />
 
 
