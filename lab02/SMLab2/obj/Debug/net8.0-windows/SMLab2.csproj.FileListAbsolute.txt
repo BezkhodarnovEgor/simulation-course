@@ -1,0 +1,16 @@
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\bin\Debug\net8.0-windows\SMLab2.exe
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\bin\Debug\net8.0-windows\SMLab2.deps.json
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\bin\Debug\net8.0-windows\SMLab2.runtimeconfig.json
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\bin\Debug\net8.0-windows\SMLab2.dll
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\bin\Debug\net8.0-windows\SMLab2.pdb
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.Form1.resources
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.csproj.GenerateResource.cache
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.AssemblyInfoInputs.cache
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.AssemblyInfo.cs
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.csproj.CoreCompileInputs.cache
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.dll
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\refint\SMLab2.dll
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.pdb
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\SMLab2.genruntimeconfig.cache
+C:\Users\egorb\OneDrive\Desktop\SMLab2\SMLab2\obj\Debug\net8.0-windows\ref\SMLab2.dll
